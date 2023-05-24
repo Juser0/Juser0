@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**Juser0/Juser0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🙌 I'm interested in...
+- Backend (Spring boot)
+- DevSecOps (CI/CD, DevOps)
+- Cloud Computing (Docker, K8S, Cloud Services...)
 
-Here are some ideas to get you started:
+### 📚 Education
+- Korea Digital Media High School Web Programming 17th (2018.03. - 2021.01.) (Graduate)
+- Incheon National University Computer Science & Engineering 21 (2021.03. ~ )
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Experience
+- INU AppCenter (2022.10. ~ )
+  - Server part (2022.10. - 2023.02.)
+  - Server part Leader (2023.03. ~ )
+- Cybersecurity Convergence Lab (2022.10. ~ )
+  - Undergraduate Researcher (2022.10. ~)
