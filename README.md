@@ -2,7 +2,7 @@
 
 ### 🙌 I'm interested in...
 - Backend (Spring boot)
-- DevSecOps (CI/CD, DevOps)
+- DevSecOps (DevOps, CI/CD, Monitoring, SBOM...)
 - Cloud Computing (Docker, K8S, Cloud Services...)
 
 ### 📚 Education
@@ -12,6 +12,12 @@
 ### 👨‍💻 Experience
 - INU AppCenter (2022.10. ~ )
   - Server part (2022.10. - 2023.02.)
-  - Server part Leader (2023.03. ~ )
+  - Server part `Leader` (2023.03. ~ 2023.09.)
+  - Server, Android part `Techincal Support` (2023.09. ~ )
 - Cybersecurity Convergence Lab (2022.10. ~ )
-  - Undergraduate Researcher (2022.10. ~)
+  - Undergraduate Intern (2022.10. ~ )
+
+### ✨ Project
+
+
+### 📃 Publication
