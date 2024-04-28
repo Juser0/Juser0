@@ -15,12 +15,10 @@
   - Server part `Leader` (2023.03. - 2023.09.)
   - Server, Android part `Technical Support` (2023.10. - 2024.02.)
   - AppCenter `President` (2024.03. - )
-- Cybersecurity Convergence Lab (2022.10. ~ )
-  - Undergraduate Intern (2022.10. ~ )
 
 ### ✨ Project
 
 ### 📃 Publication
 
 ### 📖 Blog
-* [AppCenter Server Tech Blog](https://inu-appcenter.github.io/server-tech-blog/)
+
