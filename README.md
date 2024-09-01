@@ -11,10 +11,10 @@
 
 ### 👨‍💻 Experience
 - **INU AppCenter** (2022.10. ~ )
-  - **Server** part `Member` (2022.10. - 2023.02.)
-  - **Server** part `Leader` (2023.03. - 2023.09.)
-  - **Server**, **Android** part `Technical Support` (2023.10. - 2024.02.)
-  - AppCenter `President` (2024.03. - )
+  - **Server** part `Member` 14.5th (2022.10. - 2023.02.)
+  - **Server** part `Leader` 15th (2023.03. - 2023.09.)
+  - **Server**, **Android** part `Technical Support` 15.5th (2023.10. - 2024.02.)
+  - AppCenter `President` 16th (2024.03. - 2024.09.)
 
 - **Moberan** Intern (2024.07. ~ )
 
