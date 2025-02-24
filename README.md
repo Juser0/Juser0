@@ -10,7 +10,7 @@
 ### 📚 Education
 - <img src="./img/dimigo_logo.ico" width=25px height=25px align=center> &nbsp;**Korea Digital Media High School** `Web Programming` 17th (2018.03. - 2021.01.) **(Graduate)**
 
-- <img src="./img/inu_logo.svg" width=25px height=25px align=center> &nbsp;**Incheon National University** `Computer Science & Engineering` 21 (2021.03. ~ )
+- <img src="./img/inu_logo.svg" width=25px height=25px align=center> &nbsp;**Incheon National University** `Computer Science & Engineering` 21 (2021.03. - 2025.02.) **(Graduate)**
 
 ---
 
@@ -26,5 +26,5 @@
 ---
 
 ### 🧑‍💻 Career
-- <img src="./img/moberan_logo.png" width=25px height=25px align=center> &nbsp;**Moberan** `Intern` (2024.07. ~ )
+- <img src="./img/moberan_logo.png" width=25px height=25px align=center> &nbsp;**Moberan** `Intern` (2024.07. - 2025.02.)
   - **Back-End** Developer (Spring boot + Kotlin)
